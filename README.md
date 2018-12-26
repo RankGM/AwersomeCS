@@ -4,9 +4,6 @@
 	<br>
 	<br>
 	<p>
-		<a href="https://www.patreon.com/sindresorhus">My open source work is supported by the community</a>
-	</p>
-	<p>
 		<sup>Special thanks to:</sup>
 		<br>
 		<br>
