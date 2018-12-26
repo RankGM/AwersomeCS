@@ -1,4 +1,4 @@
-# AwesomeCS
+# AwesomeCS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <div align="center">
 	<img width="500" height="350" src="logo.svg" alt="Awesome">
 </div>
@@ -44,6 +44,3 @@ Depois colocamos o da lista e o que deve ter nela, exemplo:
 
 
 
-
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
