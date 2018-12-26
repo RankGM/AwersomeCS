@@ -1,6 +1,6 @@
 # AwersomeCS
 <div align="center">
-	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+	<img width="500" height="350" src="logo.svg" alt="Awesome">
 </div>
 
 <!--
